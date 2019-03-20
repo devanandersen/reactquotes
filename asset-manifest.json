@@ -1,13 +1,13 @@
 {
   "main.css": "/reactquotes/static/css/main.b8de6c5e.chunk.css",
-  "main.js": "/reactquotes/static/js/main.45a43a1e.chunk.js",
-  "main.js.map": "/reactquotes/static/js/main.45a43a1e.chunk.js.map",
+  "main.js": "/reactquotes/static/js/main.b02a3599.chunk.js",
+  "main.js.map": "/reactquotes/static/js/main.b02a3599.chunk.js.map",
   "runtime~main.js": "/reactquotes/static/js/runtime~main.e25eb27f.js",
   "runtime~main.js.map": "/reactquotes/static/js/runtime~main.e25eb27f.js.map",
   "static/js/2.f20903f0.chunk.js": "/reactquotes/static/js/2.f20903f0.chunk.js",
   "static/js/2.f20903f0.chunk.js.map": "/reactquotes/static/js/2.f20903f0.chunk.js.map",
   "index.html": "/reactquotes/index.html",
-  "precache-manifest.ca1337e0028a2da8eaf337b843ed12ae.js": "/reactquotes/precache-manifest.ca1337e0028a2da8eaf337b843ed12ae.js",
+  "precache-manifest.2b5e84830eccf871bf300853d14c6399.js": "/reactquotes/precache-manifest.2b5e84830eccf871bf300853d14c6399.js",
   "service-worker.js": "/reactquotes/service-worker.js",
   "static/css/main.b8de6c5e.chunk.css.map": "/reactquotes/static/css/main.b8de6c5e.chunk.css.map"
 }
