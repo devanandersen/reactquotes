@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/reactquotes/static/js/runtime~main.e25eb27f.js"
   },
   {
-    "revision": "21b3eab27b6f62278b19",
+    "revision": "32cbb086df50551d7ca7",
     "url": "/reactquotes/static/js/main.b02a3599.chunk.js"
   },
   {
@@ -12,11 +12,11 @@ self.__precacheManifest = [
     "url": "/reactquotes/static/js/2.f20903f0.chunk.js"
   },
   {
-    "revision": "21b3eab27b6f62278b19",
-    "url": "/reactquotes/static/css/main.b8de6c5e.chunk.css"
+    "revision": "32cbb086df50551d7ca7",
+    "url": "/reactquotes/static/css/main.783a060d.chunk.css"
   },
   {
-    "revision": "0d2043b702589b9e1175562614e930dd",
+    "revision": "12746fe6fd77dd8afd03230e00256b64",
     "url": "/reactquotes/index.html"
   }
 ];
